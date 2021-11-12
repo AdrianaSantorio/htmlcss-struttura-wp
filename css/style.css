@@ -65,12 +65,13 @@ main>:not(.jumbotron) {
 
 .column-middle {
     width: calc(50% - 40px);
-    margin: 0 20px;
+    margin-right: 20px;
+    margin-left: 20px;
 }
 
 /* footer */
 
-footer {
+.footer {
     background-color: #8801FE;
     height: 50px;
     margin-top: 15px;
